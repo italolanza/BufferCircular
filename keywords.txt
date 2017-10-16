@@ -1,0 +1,17 @@
+BufferCircular	KEYWORD1
+creatBuffer	KEYWORD2
+setBuffer	KEYWORD2
+setBufferSize	KEYWORD2
+getBufferSize	KEYWORD2
+setBufferHead	KEYWORD2
+setBufferTail	KEYWORD2
+getBufferHead	KEYWORD2
+getBufferTail	KEYWORD2
+setCursor	KEYWORD2
+getCursor	KEYWORD2
+isBufferLoaded	KEYWORD2
+addItem	KEYWORD2
+getItem	KEYWORD2
+getAverage	KEYWORD2
+getSum	KEYWORD2
+resetBuffer	KEYWORD2
